@@ -37,6 +37,16 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: true
+  commentsParams:
+    repo: linmeimei0512/hugo-example
+    repoId: R_kgDOK3PzdA
+    category: Announcements
+    categoryId: DIC_kwDOK3PzdM4Cbujk
+    mapping: title
+    reactionsEnabled: 1
+    emitMetadata: 1
+    inputPosition: top
+    lang: zh-TW
   hidemeta: false
   hideSummary: false
   showtoc: false
